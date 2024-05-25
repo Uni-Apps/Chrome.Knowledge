@@ -1,0 +1,1 @@
+- [Here's why Chrome is SLOW (It's NOT your RAM)](https://youtu.be/lW7Mxj8KUJE)
